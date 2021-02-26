@@ -77,7 +77,7 @@ UNLOCK TABLES;
 --
 -- Dumping data for table `pays`
 --
-
+movie_db
 LOCK TABLES `pays` WRITE;
 /*!40000 ALTER TABLE `pays` DISABLE KEYS */;
 INSERT INTO `pays` VALUES (106,'Belgium'),(107,'Croatia'),(108,'USA'),(109,'Australia'),(110,'UK'),(111,'France'),(112,'Czech Republic'),(113,'Russia'),(114,'Germany'),(115,'Armenia'),(116,'Monaco'),(117,'Norway'),(118,'Sweden'),(119,'Finland'),(120,'Denmark'),(121,'Canada'),(122,'China'),(123,'Japan'),(124,'Hong Kong'),(125,'Taiwan'),(126,'Malta'),(127,'Spain'),(128,'New Zealand'),(129,'India'),(130,'Ireland'),(131,'Romania'),(132,'Netherlands'),(133,'South Africa'),(134,'Bulgaria'),(135,'Colombia'),(136,'Mexico'),(137,'Hungary'),(138,'Argentina'),(139,'Brazil'),(140,'Italy'),(141,'United Arab Emirates'),(142,'Luxembourg'),(143,'Botswana'),(144,'Rwanda'),(145,'Jamaica'),(146,'Iran'),(147,'Singapore'),(148,'Israel'),(149,'Portugal'),(150,'Serbia'),(151,'Turkey'),(152,'Sri Lanka'),(153,'Qatar'),(154,'Iceland'),(155,'Switzerland'),(156,'Cambodia');
@@ -112,4 +112,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2020-12-13 20:47:13
+-- Dump completed on 2020-12-13 20:47:13movie_dbmovie_db
